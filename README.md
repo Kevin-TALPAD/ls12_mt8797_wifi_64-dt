@@ -8,6 +8,8 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 ```
-这是使用**twrpdtgen**生成的**TALIH-PD2**设备树，我已经使用他成功编译了twrp-12.1
 
-如果你想编译，请使用mka bootimage
+```
+# This is the TALIH-PD2 device tree generated using twrpdtgen. I have successfully build twrp-12.1 using it.
+# If you want to build, please use mkabootimage！
+```
