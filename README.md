@@ -12,3 +12,4 @@
 # This is the TALIH-PD2 device tree generated using twrpdtgen. I have successfully build twrp-12.1 using it.
 # If you want to build, please use mkabootimage！
 ```
+Many thanks to XingKongTanSuo for his contribution!
