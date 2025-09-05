@@ -1,5 +1,14 @@
-欢迎您查看我们的仓库！
 
-这个仓库已经过时了，我建议您前往XingKongTanSuo改进的新仓库查看dt
+```
+#
+# Copyright (C) 2025 The Android Open Source Project
+# Copyright (C) 2025 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
 
-[点击前往新仓库](https://github.com/XingKongTanSuo/android_device_ls12_mt8797_wifi_64)
+```
+# This is the TALIH-PD2 device tree generated using twrpdtgen. I have successfully build twrp-12.1 using it.
+# If you want to build, please use mkabootimage！
+```
